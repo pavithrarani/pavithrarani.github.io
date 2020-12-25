@@ -10,7 +10,8 @@ Explorer ,  socially active ,Initiated beach clean up activities and also conduc
 Enthusiastic learn new things. Going to be Rust programmer.
 
 
-- Bulleted 
+- Programmnig languages C, C++ , C#
+
 
 
 
