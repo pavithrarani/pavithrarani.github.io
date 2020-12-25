@@ -2,9 +2,10 @@
 Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [Link](https://www.linkedin.com/in/pavithra-rani-86589192/)
 
-### About me
+### About Me
+The thirst for knowledge is gradually increasing and I am dedicating myself to learn new things! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
