@@ -1,7 +1,7 @@
 ## Pavithra Rani
 Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [Link](https://www.linkedin.com/in/pavithra-rani-86589192/)
-![Image] (D:\personal\IMG_20191111_132452.jpg)
+![Image] (https://drive.google.com/file/d/0B9DBWU-TTOTsME5UcUhVTHJvY1k/view)
 
 ### About Me
 The thirst for knowledge is gradually increasing and I am dedicating myself to learn new things! 
