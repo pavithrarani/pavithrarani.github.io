@@ -1,37 +1,21 @@
 ## Pavithra Rani
 Ambivert, traveller,cynophillist, foody,dancer, System Programmer
-[Link](https://www.linkedin.com/in/pavithra-rani-86589192/)
-![Image] (https://drive.google.com/file/d/0B9DBWU-TTOTsME5UcUhVTHJvY1k/view)
+[LinkedIn](https://www.linkedin.com/in/pavithra-rani-86589192/)
+
 
 ### About Me
-The thirst for knowledge is gradually increasing and I am dedicating myself to learn new things! 
+A girl who studied till master of software systems and good at problem solving in domains like industrial automation, telecom, digital TV.
+Also got the opportunity to teach as well for engineering students.
+Explorer ,  socially active ,Initiated beach clean up activities and also conducted social awareness
+Enthusiastic learn new things. Going to be Rust programmer.
+
+
+- Bulleted 
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pavithrarani/pavithrarani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
