@@ -7,10 +7,8 @@ Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 
 ### Steps taken
 With the help of parents I studied till masters in software systems.
-As part of work I am good at problem solving in domains like industrial automation, telecom, digital TV.
+As part of work I have majorly contribute in problem solving in domains like industrial automation, telecom, digital TV.
 Opted lecturing for engineering students in Computer Science background. 
-
-Enthusiastic learn new things. Going to be a Rust programmer.
 
 ### Learnt few Soft skills , below are majorly worked on
  - Programming languages C, C++ , C#
@@ -29,8 +27,9 @@ Enthusiastic learn new things. Going to be a Rust programmer.
 - 
 ### Next Topics of interest
 - RUST programming
-- WEB technologies , Performance of applications using CLOUD. 
+- AWS , Performance of applications using CLOUD. 
 - Artifical Intelligence.
+
 
 ### Would like to continue working in
 - Sony Digital TV
