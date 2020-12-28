@@ -19,7 +19,7 @@ Enthusiastic learn new things. Going to be a Rust programmer.
 - Very good in communication and know thats they key point in every area.
 
 ### Domain Knowledge 
--[ HP Non Stop servers ](https://tdhpe.techdata.eu/Global/documents/4AA4-2988ENW.pdf?epslanguage=it)
+- [ HP Non Stop servers ](https://tdhpe.techdata.eu/Global/documents/4AA4-2988ENW.pdf?epslanguage=it)
 - [Sony TouchPad Remote] (https://www.sony.co.in/electronics/support/articles/00115075)
 - [OMCR telecom AlcatelLucent] (https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre)
 - [Sinamics StartDrive ] (https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html)
