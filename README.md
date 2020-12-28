@@ -42,7 +42,7 @@ Enthusiastic learn new things. Going to be a Rust programmer.
 > Do what you want to do for your own sake, not to impress others.
 > Talk to a person such a way , make him realise his own strengths.
 > Always love your life and keep exploring.
-> Some teaching skills
+> I can teach better now, I was a lecturer in - [P A College] ( https://pace.edu.in/ )
 
 
 
