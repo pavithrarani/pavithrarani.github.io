@@ -11,14 +11,14 @@ Opted lecturing for engineering students in Computer Science background.
 
 Enthusiastic learn new things. Going to be a Rust programmer.
 
->#### Learnt few Soft skills , below are majorly worked on
-> - Programming languages C, C++ , C#
-> - Good at system programming pointers, data structures( Linked List is my favourite), memory management
-> - Design patterns tried so far : Singleton, Factory.
-> - Desing principles followed are : Single class responsibility
-> - Learnt to good AGILE Developer and understand its terms. 
-> - Good at documentation
-> - Very good in communication and know thats they key point in every area.
+#### Learnt few Soft skills , below are majorly worked on
+ - Programming languages C, C++ , C#
+ - Good at system programming pointers, data structures( Linked List is my favourite), memory management
+ - Design patterns tried so far : Singleton, Factory.
+ - Desing principles followed are : Single class responsibility
+ - Learnt to good AGILE Developer and understand its terms. 
+ - Good at documentation
+ - Very good in communication and know thats they key point in every area.
 
 ### Domain Knowledge 
 - [ HP Non Stop servers ](https://tdhpe.techdata.eu/Global/documents/4AA4-2988ENW.pdf?epslanguage=it)
