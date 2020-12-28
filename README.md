@@ -5,9 +5,10 @@ Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [Twitter](https://twitter.com/Be08Rani)
 
 ### Steps taken
-A girl who studied till master of software systems and good at problem solving in domains like industrial automation, telecom, digital TV.
-Also got the opportunity to teach as well for engineering students.
-Explorer ,  socially active ,Initiated beach clean up activities and also conducted social awareness
+With the help of parents I studied till masters in software systems.
+As part of work I am good at problem solving in domains like industrial automation, telecom, digital TV.
+Opted lecturing for engineering students in Computer Science background. 
+
 Enthusiastic learn new things. Going to be a Rust programmer.
 
 >#### Learnt few Soft skills , below are majorly worked on
