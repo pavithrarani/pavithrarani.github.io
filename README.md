@@ -2,6 +2,7 @@
 ### About Me
 Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [LinkedIn](https://www.linkedin.com/in/pavithra-rani-86589192/)
+[Twitter](https://twitter.com/Be08Rani)
 
 ### Steps taken
 A girl who studied till master of software systems and good at problem solving in domains like industrial automation, telecom, digital TV.
@@ -20,9 +21,9 @@ Enthusiastic learn new things. Going to be a Rust programmer.
 
 ### Domain Knowledge 
 - [ HP Non Stop servers ](https://tdhpe.techdata.eu/Global/documents/4AA4-2988ENW.pdf?epslanguage=it)
-- [Sony TouchPad Remote] (https://www.sony.co.in/electronics/support/articles/00115075)
-- [OMCR telecom AlcatelLucent] (https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre)
-- [Sinamics StartDrive ] (https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html)
+- [Sony TouchPad Remote](https://www.sony.co.in/electronics/support/articles/00115075)
+- [OMCR telecom AlcatelLucent](https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre)
+- [Sinamics StartDrive ](https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html)
 - 
 ### Next Topics of interest
 - RUST programming
