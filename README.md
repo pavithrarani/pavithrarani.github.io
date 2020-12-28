@@ -11,7 +11,7 @@ Opted lecturing for engineering students in Computer Science background.
 
 Enthusiastic learn new things. Going to be a Rust programmer.
 
-#### Learnt few Soft skills , below are majorly worked on
+### Learnt few Soft skills , below are majorly worked on
  - Programming languages C, C++ , C#
  - Good at system programming pointers, data structures( Linked List is my favourite), memory management
  - Design patterns tried so far : Singleton, Factory.
