@@ -1,7 +1,7 @@
+## Pavithra Rani
 ### About Me
 Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [LinkedIn](https://www.linkedin.com/in/pavithra-rani-86589192/)
-
 
 ### Steps taken
 A girl who studied till master of software systems and good at problem solving in domains like industrial automation, telecom, digital TV.
