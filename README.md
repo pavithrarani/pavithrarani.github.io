@@ -24,7 +24,8 @@ Opted lecturing for engineering students in Computer Science background.
 - [Sony TouchPad Remote](https://www.sony.co.in/electronics/support/articles/00115075)
 - [OMCR telecom AlcatelLucent](https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre)
 - [Sinamics StartDrive ](https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html)
-- 
+
+
 ### Next Topics of interest
 - RUST programming
 - AWS , Performance of applications using CLOUD. 
