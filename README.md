@@ -6,7 +6,7 @@ Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [Twitter](https://twitter.com/Be08Rani)
 
 ### Steps taken
-I studied Engineering in Computer science and done distant education in software systems.
+I studied Engineering in Computer science and distant education in software systems.
 As part of work I have majorly contribute in problem solving in domains like industrial automation, telecom, digital TV.
 Opted lecturing for engineering students in Computer Science background. 
 
