@@ -6,7 +6,7 @@ Ambivert, traveller,cynophillist, foody,dancer, System Programmer
 [Twitter](https://twitter.com/Be08Rani)
 
 ### Steps taken
-With the help of parents I studied till masters in software systems.
+I studied Engineering in Computer science and done distant education in software systems.
 As part of work I have majorly contribute in problem solving in domains like industrial automation, telecom, digital TV.
 Opted lecturing for engineering students in Computer Science background. 
 
@@ -26,6 +26,7 @@ Opted lecturing for engineering students in Computer Science background.
 - [Sinamics StartDrive ](https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html)
 
 ### Next Topics of interest
+- C++
 - RUST programming
 - AWS , Performance of applications using CLOUD. 
 - Artifical Intelligence.
@@ -37,13 +38,13 @@ Opted lecturing for engineering students in Computer Science background.
 
 ### Social awareness programs interested in
 - Beach Clean up
-- Kids education(both Girl & boys)
+- Children Education
 
 ### Personal strengths
 * Do what you want to do for your own sake, not to impress others.
 * Talk to a person such a way , make him realise his own strengths.
 * Always love your life and keep exploring.
-* I can teach better now, I was once a lecturer in -[P A College] (https://pace.edu.in/)
+* Good Teaching skill, two years of experience as a B.E lecturer -[P A College] (https://pace.edu.in/)
 
 
 
