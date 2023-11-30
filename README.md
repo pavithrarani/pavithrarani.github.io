@@ -51,12 +51,13 @@ I was a lecturer in my own college for the year of 2008 to 2009.
 
 ### During free time
 --- Love travelling to mountains, beaches , nature explorer
----I Work out in gyms, 
----go for walk, Yoga (surya namaskara, Pranayama ) 
----cook for family and friends, 
----watch movies , 
----read a book(read books are Alchemist, Ikigai)
----Also love dancing (Indian classical dance )
+
+- I Work out in gyms, 
+- go for walk, Yoga (surya namaskara, Pranayama ) 
+- cook for family and friends, 
+- watch movies , 
+- read a book(read books are Alchemist, Ikigai)
+- Also love dancing (Indian classical dance )
 
 ### Personal strengths
 * Good at listening, Ambivert, Nature lover, Dog person
