@@ -1,6 +1,7 @@
 ## Pavithra Rani
 ### About Me
 Ambivert, traveller,cynophillist, foody,dancer, System/Application Programmer
+
 I am from mangalore, Southern India, coastal region of karnataka. 
 
 [LinkedIn](https://www.linkedin.com/in/pavithra-rani-86589192/)
@@ -29,16 +30,16 @@ I was a lecturer in my own college for the year of 2008 to 2009.
 ### Domain Knowledge 
 - [ HP Non Stop servers ](https://tdhpe.techdata.eu/Global/documents/4AA4-2988ENW.pdf?epslanguage=it) [Wipro technlogies for 2.5 years]
 - [Sony TouchPad Remote](https://www.sony.co.in/electronics/support/articles/00115075) [HCL technologies for 4 years]
-- [OMCR telecom AlcatelLucent](https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre)
+- [OMCR telecom AlcatelLucent](https://en.wikipedia.org/wiki/Operations_and_Maintenance_Centre) [ part of HCL]
 - [Sinamics StartDrive ](https://new.siemens.com/global/en/products/drives/selection-and-engineering-tools/sinamics-startdrive-commissioning-software.html) [ Siemens for 7years]
-- [https://assets.new.siemens.com/siemens/assets/api/uuid:0fdd52a4-c384-4e55-a89d-ba9181d17fc7/tia-openness.pdf](https://www.youtube.com/watch?v=Mw1Ak9pzEdw)
-- https://www.siemens.com/global/en/products/drives/sinamics/low-voltage-converters/servo-converter/sinamics-v90.html
+- [https://assets.new.siemens.com/siemens/assets/api/uuid:0fdd52a4-c384-4e55-a89d-ba9181d17fc7/tia-openness.pdf](https://www.youtube.com/watch?v=Mw1Ak9pzEdw) [As part of siemens]
+- https://www.siemens.com/global/en/products/drives/sinamics/low-voltage-converters/servo-converter/sinamics-v90.html [As part of siemens]
 
 
 ### Next Topics of interest
 - More depth knowledge in C++
 - Web Programming Javascript, Python, GO Language
-- - RUST programming
+- RUST programming
 - AWS , Performance of applications using CLOUD.
 - Artifical Intelligence.
 
