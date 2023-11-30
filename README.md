@@ -50,8 +50,7 @@ I was a lecturer in my own college for the year of 2008 to 2009.
 - Children Education : Next social activity will be focusing on.
 
 ### During free time
---- Love travelling to mountains, beaches , nature explorer
-
+- Love travelling to mountains, beaches , nature explorer
 - I Work out in gyms, 
 - go for walk, Yoga (surya namaskara, Pranayama ) 
 - cook for family and friends, 
